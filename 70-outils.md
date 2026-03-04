@@ -53,7 +53,7 @@ Lovable, Replit, v0 et Bolt.
 
 Des outils fonctionnant avec un "Node graph"
 
-**Weavy** : [www.weavy.ai](https://www.weavy.ai/) "Turn your creative vision into scalable workflows. Access all AI models and professional editing tools in one node based platform." - propose un plan gratuit. - A été [acquis par Figma](https://www.figma.com/blog/welcome-weavy-to-figma/) en octobre 2025. Voir [tutoriel vidéo](https://www.youtube.com/watch?v=ihOFi5lpQr8). "High control, wide-ranging features, learning curve but manageable."
+**Weavy** : [www.weavy.ai](https://www.weavy.ai/) "Turn your creative vision into scalable workflows. Access all AI models and professional editing tools in one node based platform." - propose un plan gratuit. - A été [acquis par Figma](https://www.figma.com/blog/welcome-weavy-to-figma/) en octobre 2025. "High control, wide-ranging features, learning curve but manageable." Voir [tutoriel vidéo](https://www.youtube.com/watch?v=ihOFi5lpQr8). – Voir [vidéo présentant un workflow complet](https://youtu.be/AxV8TR3BdqI?si=UbYsVLjDrMQALnMu&t=2442).
 
 **Flora AI** : "Mid-tier control, stripped down offering of features, a lower learning curve." Essai gratuit avec 1000 starter credits.
 
