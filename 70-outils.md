@@ -63,6 +63,20 @@ Des outils fonctionnant avec un "Node graph"
 
 **ComfyUI** : [https://www.comfy.org/](www.comfy.org). "Full control, tons of features, high learning curve." "If you want maximum flexibility → ComfyUI." "Most marketing teams don’t actually need Comfy unless they’re doing very experimental or highly custom visual work. For day-to-day creative output, the simpler tools usually cover 90% of needs."
 
+## Utiliser un LLM en local
+
+Pour installer un LLM sur votre ordinateur:
+
+**[LM Studio](https://lmstudio.ai/)**
+
+LM Studio permet d'accéder à des modèles divers, en les installant sur son ordinateur.
+
+## IA et éditeurs de code
+
+- **Cursor** -  "Cursor is a polished, fast, dedicated IDE fork of VS Code, best for rapid, AI-driven development with powerful tab-autocomplete". Prix: $20/ mois pour la version Pro.
+
+Pour utiliser des agents dans VS Code, il existe différentes extensions telles que Cline, Continue, Kilo Code...
+
 ## Réflexions et liens
 
 [Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma.
