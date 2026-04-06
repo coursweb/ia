@@ -28,19 +28,19 @@ Selon [Frandroid](https://www.frandroid.com/culture-tech/intelligence-artificiel
 
 Mistral contient d'autres produits comme "Studio" et "Vibe". 
 
-## Apertus
+## Apertus
 
 On 2 September 2025, EPFL, ETH Zurich, and the Swiss National Supercomputing Centre (CSCS) has released **Apertus**, Switzerland’s first large-scale open, multilingual language model. A free chat and API demo interface is available here: [https://publicai.co/](https://publicai.co/)
 
 ***
 
-## IA open-source et modèles chinois
+## IA open-source et modèles chinois
 
 La part des modèles chinois dans les travaux effectués par IA est passée de 1,2% fin 2024 à plus de 30% début août 2025 au niveau mondial, selon un rapport publié début décembre par la plateforme OpenRouter.
 
 Outre *DeepSeek* et *Qwen*, *Z.ai (GLM)* et *MiniMax* ont aussi les faveurs de développeurs informatiques du monde entier. La nouvelle version de *Kimi K2* de la start-up Moonshot, sortie en novembre, a même montré une percée dans le domaine des agents IA, jusqu’ici considéré comme une lacune des modèles chinois.
 
-Début août (2025), OpenAI a mis en ligne deux modèles «open weight» GPT-oss, mais n’en avait plus proposé depuis six ans. Parmi les entreprises occidentales qui comptent, seul le français Mistral garde le cap de l’open source, mais pointe loin derrière DeepSeek et Qwen dans l’étude d’OpenRouter sur les modèles libres les plus populaires.
+Début août 2025, OpenAI a mis en ligne deux modèles «open weight» GPT-oss, mais n’en avait plus proposé depuis six ans. Parmi les entreprises occidentales qui comptent, seul le français Mistral garde le cap de l’open source, mais pointe loin derrière DeepSeek et Qwen dans l’étude d’OpenRouter sur les modèles libres les plus populaires.
 
 Source: [Pourquoi les entrepreneurs privilégient l’IA chinoise](https://www.20min.ch/fr/story/malgre-les-tentions-pourquoi-les-entrepreneurs-privilegient-l-ia-chinoise-103474464), décembre 2025
 
