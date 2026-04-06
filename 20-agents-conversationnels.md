@@ -16,7 +16,7 @@ Euria s'appuie sur [un mix de modèles open source](https://www.infomaniak.com/f
 - *moonshotai/Kimi-K2.5* (Le plus puissant pour le vibe coding)
 - *openai/gpt-oss-120b* (Modèle de très grande taille, conçu pour le raisonnement avancé, la génération longue et l’analyse de documents volumineux)
 - *Apertus-70B-Instruct-2509* (Idéal pour les services multilingues, les administrations, et les équipes R&D)
-- *Qwen/Qwen3-VL-235B-A22B-Instruct *(Modèle de très grande taille, rivalisant avec GPT-4 ou Claude 3 Opus sur un large éventail de tâches complexes)
+- *Qwen/Qwen3-VL-235B-A22B-Instruct* (Modèle de très grande taille, rivalisant avec GPT-4 ou Claude 3 Opus sur un large éventail de tâches complexes)
 - *Mistral-Small-3.2-24B-Instruct-2506* (Modèle multimodal polyvalent, idéal pour la vision, l’analyse d’image et l’agent conversationnel)
 - *Gemma-3n-E4B-it* (Petit modèle multimodal très efficace et économique à déployer)
 
