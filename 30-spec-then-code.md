@@ -36,7 +36,9 @@ mon-projet/
 
 
 
-```markdown# Spécifications et Directives pour l'IA
+```markdown
+
+# Spécifications et Directives pour l'IA
 
 ## Introduction
 - Présentation générale du projet et de l'objectif de ce document.
@@ -74,7 +76,7 @@ Cette structure vous aidera à organiser vos idées de manière claire et à fou
 
 Un exemple: 
 
-```
+```markdown
 ### Process de démarrage
 
 Interviewe-moi avant de faire quoi que ce soit d'autre. Creuse en profondeur :
@@ -97,7 +99,6 @@ Ensuite, à partir de notre discussion, propose :
 Ensuite, de retour en mode accept edits, mets à jour @docs/specs.md avec ce qu'on a discuté et toute l'information manquante nécessaire.
 
 Écris le plan d'implémentation dans docs/PLAN.md. Écris la checklist des tâches dans docs/TODO.md.
-
 ```
 
 ### Points importants
