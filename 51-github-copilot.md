@@ -8,7 +8,7 @@ permalink: github-copilot.html
 
 
 
-Github Copilot comporte une version "Free" (gratuite). Elle est limitée, voici les quotas valables le 13 mai 2026:
+Github Copilot comporte une version "Free" (gratuite). Elle est limitée, voici [les quotas](https://docs.github.com/en/copilot/concepts/billing/individual-plans) valables en mai 2026:
 
 - 2,000 inline suggestions in IDEs per month
 - 50 premium requests per month
@@ -16,6 +16,8 @@ Github Copilot comporte une version "Free" (gratuite). Elle est limitée, voici 
 Les étudiants ayant vérifié leur statut peuvent accéder à "GitHub Copilot Student".
 
 Les enseignants peuvent obtenir un accès gratuit à Copilot Pro: "A free subscription for GitHub Copilot Pro is available to verified teachers with GitHub Education."
+
+Pour ces deux plans, Student et Pro, la limite de "premium requests" passe à 300 par mois.
 
 ## Historique des évolutions
 
@@ -25,17 +27,10 @@ Suite à ces changements, les plans Student n'ont plus accès aux modèles premi
 
 ## Activer les "education benefits"
 
-- Accéder à son profil sous [https://github.com/settings/education/benefits](https://github.com/settings/education/benefits)
-- Cela indique: "To redeem Copilot, please sign up via this link." et envoie vers la page [https://github.com/github-copilot/free_signup](https://github.com/github-copilot/free_signup)
+- Accéder à son [profils > settings > educationbenefits](https://github.com/settings/education/benefits)
+- Si le statut étudiant a été validé, cela indiquera: "To redeem Copilot, please sign up via this link." et envoie vers une [page d'activation](https://github.com/github-copilot/free_signup)
 
-Une fois validé, cela permet différentes fonctions: 
+Une fois validé, on a accès à la version étendue de Copilot.
 
-- Editor preview features
-- Copilot Chat in GitHub.com
-- [Copilot CLI](https://github.com/features/copilot/cli)
-- Copilot in GitHub Desktop
-
-On peut vérifier les réglages, et la consommation des ressources, dans son profil utilisateur: 
-
-[https://github.com/settings/copilot/features](https://github.com/settings/copilot/features)
+On peut vérifier les réglages, et sa consommation de requêtes, dans son [profil utilisateur > Copilot Features](https://github.com/settings/copilot/features)
 
