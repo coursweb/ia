@@ -46,4 +46,16 @@ On peut vérifier les réglages, et sa consommation de requêtes, dans son [prof
 
 ![Commandes Create](images/copilot-create-commands.png)
 
-![Modèles disponibles](images/copilot-pro-models.png)
+Lire: 
+
+- [About Custom Agents](https://docs.github.com/en/copilot/concepts/agents/cloud-agent/about-custom-agents)
+
+Modèles disponibles dans Copilot Free:
+
+![Modèles Copilot Free](images/copilot-free-models.png)
+
+Modèles disponibles dans Copilot Pro:
+
+![Modèles Copilot Pro](images/copilot-pro-models.png)
+
+Dans Copilot Pro, les modèles GPT-4.1, GPT-4o et GPT-5 mini sont gratuits (aucune consommation de requêtes).
