@@ -27,8 +27,10 @@ Suite à ces changements, les plans Student n'ont plus accès aux modèles premi
 
 ## Activer les "education benefits"
 
-- Accéder à son [profils > settings > educationbenefits](https://github.com/settings/education/benefits)
-- Si le statut étudiant a été validé, cela indiquera: "To redeem Copilot, please sign up via this link." et envoie vers une [page d'activation](https://github.com/github-copilot/free_signup)
+Si votre statut étudiant ou enseignant validé, Github Copilot reste dans la version "Free" tant que  vous n'avez pas activé l'upgrade. Voici la procédure:
+
+- Accéder à son [profil > settings > education benefits](https://github.com/settings/education/benefits)
+- Si le statut étudiant a été validé, cela indiquera: "*To redeem Copilot, please sign up via this link*." Le lien envoie vers une [page d'activation](https://github.com/github-copilot/free_signup)
 
 Une fois validé, on a accès à la version étendue de Copilot.
 
