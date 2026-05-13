@@ -34,3 +34,8 @@ Une fois validé, cela permet différentes fonctions:
 - Copilot Chat in GitHub.com
 - [Copilot CLI](https://github.com/features/copilot/cli)
 - Copilot in GitHub Desktop
+
+On peut vérifier les réglages, et la consommation des ressources, dans son profil utilisateur: 
+
+[https://github.com/settings/copilot/features](https://github.com/settings/copilot/features)
+
