@@ -8,16 +8,16 @@ permalink: github-copilot.html
 
 
 
-Github Copilot comporte une version "Free" (gratuite). Elle est limitée, voici [les quotas](https://docs.github.com/en/copilot/concepts/billing/individual-plans) valables en mai 2026:
+Github Copilot comporte une version **"Free"** (gratuite). Elle est limitée, voici [les quotas](https://docs.github.com/en/copilot/concepts/billing/individual-plans) valables en mai 2026:
 
 - 2,000 inline suggestions in IDEs per month
 - 50 premium requests per month
 
-Les étudiants ayant vérifié leur statut peuvent accéder à "GitHub Copilot Student".
+Les étudiants ayant vérifié leur statut peuvent accéder à **"Copilot Student"**.
 
-Les enseignants peuvent obtenir un accès gratuit à Copilot Pro: "A free subscription for GitHub Copilot Pro is available to verified teachers with GitHub Education."
+Les enseignants peuvent obtenir un accès gratuit à **Copilot Pro**: "A free subscription for GitHub Copilot Pro is available to verified teachers with GitHub Education."
 
-Pour ces deux plans, Student et Pro, la limite de "premium requests" passe à 300 par mois.
+Pour ces deux plans, Student et Pro, la limite de "premium requests" passe à **300 par mois**.
 
 ## Historique des évolutions
 
@@ -35,6 +35,8 @@ Si votre statut étudiant ou enseignant validé, Github Copilot reste dans la ve
 Une fois validé, on a accès à la version étendue de Copilot.
 
 On peut vérifier les réglages, et sa consommation de requêtes, dans son [profil utilisateur > Copilot Features](https://github.com/settings/copilot/features)
+
+![](images/settings-copilot-features.png)
 
 ## Conseils d'utilisation
 
