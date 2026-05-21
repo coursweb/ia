@@ -16,3 +16,7 @@ Il fait depuis 2017 un sondage annuel sur les outils de design.
 Le sondage de 2026:  [https://survey.uxtools.co](https://survey.uxtools.co).  
 Voici une vidéo de son canal Youtube (DesignerTom) où il commente les résultats du sondage de 2026:  
 [I Surveyed 1,478 Designers About AI. Three Groups Emerged](https://www.youtube.com/watch?v=fN6RpBaPdxg)
+
+**Dan Saffer**  
+Designer d'interaction, enseignant à Carnegie Mellon University. 
+* [UI for AI](https://uiforai.figma.site/) : un projet pédagogique qui explore de nouvelles interfaces pour les outils AI. ("The UI for AI website showcases their work over two semesters as they researched, concepted, prototyped, and tested new paradigms for AI, both now and what is coming soon.")
