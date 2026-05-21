@@ -54,8 +54,21 @@ Modèles disponibles dans Copilot Free:
 
 ![Modèles Copilot Free](images/copilot-free-models.png)
 
+Sur le plan Free, tout modèle consomme 1 requête premium. Donc pas de différence de coût entre les modèles sur Free.
+
 Modèles disponibles dans Copilot Pro:
 
 ![Modèles Copilot Pro](images/copilot-pro-models.png)
 
 Dans Copilot Pro, les modèles GPT-4.1, GPT-4o et GPT-5 mini sont gratuits (aucune consommation de requêtes).
+
+## Les 5 modèles décryptés (selon Claude.ai)
+
+Source: [AI model comparison](https://docs.github.com/en/copilot/reference/ai-models/model-comparison) 
+
+### 🟢 GPT-4.1 — Le généraliste fiable
+
+Si tu n'es pas sûr de quel modèle utiliser, GitHub recommande de commencer par **GPT-4.1**, puis d'ajuster selon tes besoins. C'est le couteau suisse : bon équilibre vitesse/qualité, idéal pour la majorité des tâches quotidiennes (complétion, refactoring simple, génération de code, documentation).
+
+**Utilise-le pour :** tout ce qui est courant — complétion de code, questions rapides, génération de boilerplate.
+
