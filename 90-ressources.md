@@ -17,7 +17,7 @@ Le sondage de 2026:  [https://survey.uxtools.co](https://survey.uxtools.co).
 Voici une vidéo de son canal Youtube (DesignerTom) où il commente les résultats du sondage de 2026:  
 [I Surveyed 1,478 Designers About AI. Three Groups Emerged](https://www.youtube.com/watch?v=fN6RpBaPdxg)
 
-**Thierry Pigot**. 
+**Thierry Pigot**   
 [Manifeste IA](https://www.linkedin.com/pulse/manifeste-ia-thierry-pigot-7rz5e/) – décrit comment l'IA est utilisée au quotidien dans l'agence WeAreWP. 
 "L'IA code vite. Sans architecture, c'est de la soupe. L'IA génère des visuels. Sans direction artistique, c'est de la décoration interchangeable." (...) "Nous refusons de livrer du code généré sans relecture experte. Nous refusons de présenter des visuels IA comme une direction artistique. Nous refusons de signer un audit qu'aucun humain n'a vérifié. Nous refusons de facturer à un client un travail qu'aucun cerveau humain n'a réellement pensé."
 
