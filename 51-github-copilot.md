@@ -66,9 +66,8 @@ Dans Copilot Pro, les modèles GPT-4.1, GPT-4o et GPT-5 mini sont gratuits (aucu
 
 Source: [AI model comparison](https://docs.github.com/en/copilot/reference/ai-models/model-comparison) 
 
-### 🟢 GPT-4.1 — Le généraliste fiable
-
-Si tu n'es pas sûr de quel modèle utiliser, GitHub recommande de commencer par **GPT-4.1**, puis d'ajuster selon tes besoins. C'est le couteau suisse : bon équilibre vitesse/qualité, idéal pour la majorité des tâches quotidiennes (complétion, refactoring simple, génération de code, documentation).
-
-**Utilise-le pour :** tout ce qui est courant — complétion de code, questions rapides, génération de boilerplate.
-
+* 🟢 **GPT-4.1** — Le généraliste fiable : bon équilibre vitesse/qualité, idéal pour la majorité des tâches quotidiennes (complétion, refactoring simple, génération de code, documentation).
+* 🔵 **GPT-4o** — Le multimodal : support multimodal (texte + images). C'est actuellement le seul modèle de production avec un support complet des images dans VS Code. Fenêtre plus petite (68K), mais seul modèle gratuit avec vision vraiment utile.
+* 🟡 **GPT-5 mini** — Le rapide et raisonneur. Agent Mode, itérations rapides, tâches répétitives légères.
+* 🟠 **Claude Haiku 4.5**. Le modèle le plus léger de la gamme Claude. Haiku est optimisé pour la vitesse et la latence minimale.
+* 🔴 **Raptor mini** (Preview) — Le spécialiste code multi-fichiers. Un modèle GPT-5-mini fine-tuné par Microsoft/GitHub pour Copilot. Conçu pour : éditions multi-fichiers, refactoring à grande échelle, compréhension globale du workspace.

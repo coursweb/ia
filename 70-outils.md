@@ -80,3 +80,14 @@ Pour utiliser des agents dans VS Code, il existe différentes extensions telles 
 ## Réflexions et liens
 
 [Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma.
+
+## AI Personal assistants / Personal agents
+
+OpenClaw, Hermes, Pi...
+
+* **[OpenClaw](https://github.com/openclaw/openclaw)** launched in late 2025 as a weekend project by Austrian developer Peter Steinberger. It became one of the fastest-growing open-source projects in GitHub history. In February 2026, Steinberger joined OpenAI.
+* **Pi** : https://github.com/earendil-works/pi : AI agent toolkit. By [Mario Zechner](https://mariozechner.at/).
+* **Hermes Agent** : The self-improving AI agent built by Nous Research. https://github.com/NousResearch/hermes-agent. Qwen3.6-27B is the canonical local model to use Hermes Agent with.
+
+> In the past three years, I've been using LLMs for assisted coding. If you read this, you probably went through the same evolution: from copying and pasting code into **ChatGPT**, to **Copilot** auto-completions (which never worked for me), to **Cursor**, and finally the new breed of coding agent harnesses like Claude Code, Codex, Amp, Droid, and opencode that became our daily drivers in 2025. (Mario Zechner, [2025-11-30](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/))
+
