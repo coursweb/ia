@@ -10,7 +10,11 @@ Voici une petite démonstration, dans laquelle on crée l'ébauche d'un site web
 
 <iframe width="100%" style="ratio:16/9; min-height:320px" src="https://www.youtube-nocookie.com/embed/gWo6xff5l0s?si=VSlrYxW4gp5J3tK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-À partir des mêmes indications intiales, trois versions créées en interaction avec différents modèles IA.
+---
+
+### Versions par différents modèles
+
+À partir des mêmes indications intiales, trois versions ont été créées en interaction avec différents modèles IA.
 
 1) Un premier jet rapide, par Copilot Pro et GPT 5.3 Codex (un modèle premium de OpenAI). Voir la branche de code [ms-copilot](https://github.com/Eracom-ID441/index-picto/tree/ms-copilot).
 
