@@ -4,7 +4,7 @@ title: Outils IA
 permalink: outils.html
 ---
 
-Outils utilisant l'IA.
+Aperçu de divers outils / catégories d'outils utilisant l'IA.
 
 ## Utiliser un LLM en local
 
@@ -26,6 +26,8 @@ Pour utiliser des agents dans VS Code, il existe différentes extensions telles 
 ## Génération d'images
 
 **Recraft** : [www.recraft.ai](https://www.recraft.ai/)  - Possède un mode gratuit limité (30 credits, renewed daily). [Exemple](https://www.recraft.ai/community?imageId=ff989526-3813-4531-a45b-0b167eabbe13).
+
+![Interface de Recraft](images/recraft-interface.webp)
 
 **Ideogram** : [ideogram.ai](https://ideogram.ai/)
 
@@ -53,14 +55,15 @@ Outils d'idéation et "Vibe Design".
 
 **Relume** : [www.relume.io](https://www.relume.io/) - outil pouvant produire des Sitemaps, Wireframes et Style Guides. Les designs peuvent être exportés vers Figma, Webflow ou React.
 
-
 ## Génération d'applications web
 
 Outils de "Vibe Coding" permettant de produire des sites web: 
 
 **Figma Make**
 
-Lovable, Replit, v0 et Bolt.
+[Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma. "Spent the last few days exploring the capabilities of @claudeai Sonnet 4.5 in Figma Make!" (29.09.2025)
+
+[Lovable](https://lovable.dev/), Replit, v0 et Bolt.
 
 **[Floot](https://floot.com/)** : utilisé par [Etienne Mineur](pionniers.html).
 
@@ -90,6 +93,7 @@ OpenClaw, Hermes, Pi...
 
 > In the past three years, I've been using LLMs for assisted coding. If you read this, you probably went through the same evolution: from copying and pasting code into **ChatGPT**, to **Copilot** auto-completions (which never worked for me), to **Cursor**, and finally the new breed of coding agent harnesses like Claude Code, Codex, Amp, Droid, and opencode that became our daily drivers in 2025. (Mario Zechner, [2025-11-30](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/))
 
+![Site web de Hermes](images/Hermes/hermes-agent.webp)
+
 ## Réflexions et liens
 
-[Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma.
