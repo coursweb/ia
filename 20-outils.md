@@ -6,6 +6,23 @@ permalink: outils.html
 
 Outils utilisant l'IA.
 
+## Utiliser un LLM en local
+
+Pour installer un LLM sur votre ordinateur:
+
+- **[LM Studio](https://lmstudio.ai/)**
+- **[Ollama](https://ollama.com/)**
+
+Ces logiciels, comme **LM Studio** ou **Ollama**, permettemt d'accéder à des modèles divers, en les installant sur son ordinateur.
+
+## IA et éditeurs de code
+
+- **Github Copilot** - intégré à Visual Studio Code.
+- **[OpenCode](https://opencode.ai/)** - agent de code IA open source, incluant différents modèles.
+- **[Cursor](https://cursor.com/)** -  "Cursor is a polished, fast, dedicated IDE fork of VS Code, best for rapid, AI-driven development with powerful tab-autocomplete". Prix: $20/ mois pour la version Pro.
+
+Pour utiliser des agents dans VS Code, il existe différentes extensions telles que Cline, Continue, KiloCode... Cela évolue rapidement.
+
 ## Génération d'images
 
 **Recraft** : [www.recraft.ai](https://www.recraft.ai/)  - Possède un mode gratuit limité (30 credits, renewed daily). [Exemple](https://www.recraft.ai/community?imageId=ff989526-3813-4531-a45b-0b167eabbe13).
@@ -63,24 +80,6 @@ Des outils fonctionnant avec un "Node graph"
 
 **ComfyUI** : [https://www.comfy.org/](www.comfy.org). "Full control, tons of features, high learning curve." "If you want maximum flexibility → ComfyUI." "Most marketing teams don’t actually need Comfy unless they’re doing very experimental or highly custom visual work. For day-to-day creative output, the simpler tools usually cover 90% of needs."
 
-## Utiliser un LLM en local
-
-Pour installer un LLM sur votre ordinateur:
-
-**[LM Studio](https://lmstudio.ai/)**
-
-LM Studio permet d'accéder à des modèles divers, en les installant sur son ordinateur.
-
-## IA et éditeurs de code
-
-- **Cursor** -  "Cursor is a polished, fast, dedicated IDE fork of VS Code, best for rapid, AI-driven development with powerful tab-autocomplete". Prix: $20/ mois pour la version Pro.
-
-Pour utiliser des agents dans VS Code, il existe différentes extensions telles que Cline, Continue, Kilo Code...
-
-## Réflexions et liens
-
-[Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma.
-
 ## AI Personal assistants / Personal agents
 
 OpenClaw, Hermes, Pi...
@@ -91,3 +90,6 @@ OpenClaw, Hermes, Pi...
 
 > In the past three years, I've been using LLMs for assisted coding. If you read this, you probably went through the same evolution: from copying and pasting code into **ChatGPT**, to **Copilot** auto-completions (which never worked for me), to **Cursor**, and finally the new breed of coding agent harnesses like Claude Code, Codex, Amp, Droid, and opencode that became our daily drivers in 2025. (Mario Zechner, [2025-11-30](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/))
 
+## Réflexions et liens
+
+[Une vidéo de Dylan Field](https://x.com/zoink/status/1972708411423989794), fondateur de Figma.

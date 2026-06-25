@@ -4,10 +4,10 @@ title: Spec-Then-Code
 permalink: spec-then-code.html
 ---
 
-Question: J'ai vu des codeurs utiliser des fichiers specs.md ou ai-guidelines.md
+**Question:** J'ai vu des codeurs utiliser des fichiers specs.md ou ai-guidelines.md
 Est-ce qu'il existe une structure recommandée ?
 
-Réponse: Oui, il existe des structures recommandées pour les fichiers de spécifications ou de directives d'IA. Voici une structure courante que vous pouvez suivre pour créer un fichier `specs.md` ou `ai-guidelines.md` :
+**Réponse:** Oui, il existe des structures recommandées pour les fichiers de spécifications ou de directives d'IA. Voici une structure courante que vous pouvez suivre pour créer un fichier `specs.md` ou `ai-guidelines.md` :
 
 ## Les fichiers de contexte pour LLM : les conventions qui émergent
 
