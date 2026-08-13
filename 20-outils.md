@@ -13,7 +13,7 @@ Pour installer un LLM sur votre ordinateur:
 - **[LM Studio](https://lmstudio.ai/)**
 - **[Ollama](https://ollama.com/)**
 
-Ces logiciels, comme **LM Studio** ou **Ollama**, permettemt d'accéder à des modèles divers, en les installant sur son ordinateur.
+Ces logiciels, comme **LM Studio** ou **Ollama**, permettent d'accéder à des modèles divers, en les installant sur son ordinateur.
 
 ## IA et éditeurs de code
 
