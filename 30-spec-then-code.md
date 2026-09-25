@@ -121,3 +121,9 @@ Ce que tu dis au LLM :
 **Limite :** Il ne voit pas les états interactifs (hover, modal ouverte) sauf si tu les exportes séparément.
 
 Cette page contient des informations venant de [cette discussion avec Claude.AI](https://claude.ai/share/3cb77af2-e9e6-4aeb-837a-caefb366306d).
+
+---
+
+## Ressources
+
+- *[Initiation à Claude code et à des prompts optimisés](https://capitainewp.io/formations/wordpress-full-site-editing/claude-code-bases/)*, un cours de Capitaine WP
