@@ -5,7 +5,7 @@ Notes de travail sur les outils IA.
 ## Echelles pédagogiques
 
 - [échelle AIAS](https://aiassessmentscale.com/) (AI Assessment Scale)
-- [échelle DALIA](https://daliascale.org/fr/) (par trois créatifs genevois)
+- [échelle DALIA](https://daliascale.org/fr/) (par trois créatifs genevois). En 6 échelons (de D0 à D5), elle mesure le rôle de l’humain et de l’IA sur trois dimensions: qui trouve l’idée, qui l’exécute et qui juge le résultat, du travail entièrement humain au système intelligent autonome.
 
 Voir aussi: 
 
