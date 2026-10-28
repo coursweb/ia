@@ -2,6 +2,17 @@
 
 Notes de travail sur les outils IA.
 
+## Echelles pédagogiques
+
+- [échelle AIAS](https://aiassessmentscale.com/) (AI Assessment Scale)
+- [échelle DALIA](https://daliascale.org/fr/) (par trois créatifs genevois)
+
+Voir aussi: 
+
+- [Sharepoint DGEP](https://eduvaud.sharepoint.com/sites/DGEP-PEDA-NUM/SitePages/Ressources-DGEP-IAg.aspx?TeamsCID=01d64035-9f22-4db0-98f7-e4f18076fa51&linkOpenTime=1793173416355) avec ressources sur AIAS.
+- [Article RTS sur échelle DALIA](https://www.rts.ch/info/culture/arts-visuels/2026/article/dalia-le-thermometre-genevois-qui-mesure-l-implication-de-l-ia-29210656.html)
+
+
 ## Vocabulaire (articles Wikipédia)
 
 - [Slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))
