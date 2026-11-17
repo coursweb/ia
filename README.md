@@ -21,3 +21,9 @@ Voir aussi:
 - [Art créé par intelligence artificielle](https://fr.wikipedia.org/wiki/Art_cr%C3%A9%C3%A9_par_intelligence_artificielle)
 - [Prompt art](https://fr.wikipedia.org/wiki/Prompt_art)
 - *[Deepfake](https://fr.wikipedia.org/wiki/Deepfake)*
+
+## Festivals, prix de création AI
+
+- Etats-Unis: **MIT Global AI Film Hack**, fondé en 2023. [https://www.mitaifilmhack.com/](https://www.mitaifilmhack.com/)
+- Allemagne: **Hamburg AI Creators Award** (HAICA) - [haic-award.de](https://haic-award.de/)
+- France: Le prix Pascal, lancé en France en octobre 2026, récompensera des textes créés avec l'IA. "Le Prix Pascal, nommé en référence au mathématicien et philosophe français Blaise Pascal (1623-1662), est lancé dans un contexte où les prix littéraires peinent à réguler l’IA et ses usages par les auteurs." [prixpascal.fr](https://prixpascal.fr/)
