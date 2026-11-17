@@ -1,10 +1,17 @@
 ---
 layout: page
-title: Pionniers
-permalink: pionners.html
+title: Praticiens
+permalink: praticiens.html
 ---
 
-Figures pionnières dans l'utilisation créative de l'IA.
+Figures inspirantes dans l'utilisation créative de l'IA.
+
+En photographie : Hugo Barbera, Bel Millar Cole  
+En création 3D : Karoline Georges (instagram)  
+En recherche : Grit Wolany  
+En design de produits : Emanuele Jane Morelli  
+En fashion design : Meg Ball
+
 
 [DeepDream](https://fr.wikipedia.org/wiki/DeepDream) : logiciel développé en 2014, utilisant un réseau neuronal, produisant des images psychédéliques.
 
@@ -33,7 +40,7 @@ En février 2026, il donne accès à trois outils IA qu'il a développé (en Vib
 - *[Après quatre mois de workshops dans les écoles de design utilisant les intelligences artificielles!](https://etienne.design/2023/01/27/ai-2-ecole/)*, janvier 2023
 - *[L’IAG est une sorte de bandit manchot - Entretien avec Étienne Mineur](https://www.unilim.fr/interfaces-numeriques/5570)*, Interfaces Numériques, octobre 2025
 
-
+---
 
 ## Eric Tabuchi – The Third Atlas
 
