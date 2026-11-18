@@ -6,14 +6,14 @@ permalink: praticiens.html
 
 Figures inspirantes dans l'utilisation créative de l'IA.
 
-En photographie : Hugo Barbera, Bel Millar Cole  
-En création 3D : Karoline Georges (instagram)  
-En recherche : Grit Wolany  
-En design de produits : Emanuele Jane Morelli  
-En fashion design : Meg Ball
-
-
-[DeepDream](https://fr.wikipedia.org/wiki/DeepDream) : logiciel développé en 2014, utilisant un réseau neuronal, produisant des images psychédéliques.
+- [Vera van der Burg](https://veravanderburg.nl/), designer qui utilise l’IA dans le domaine de la céramique.
+- [Hugo Barbera](https://www.instagram.com/hugo.barbera.ai/), "AI director and one half of HumAIn, the AI directors duo specializing in professional-grade AI work for fashion, advertising, and film."
+- [Ben Millar Cole](https://benmillarcole.com/), photographe
+- En photographie : Hugo Barbera, Ben Millar Cole  
+- [Karoline Georges](https://www.instagram.com/karolinegeorges.art/), écrivaine et artiste multidisciplinaire. 
+- [Grit Wolany](https://gritwolany.com/), directrice artistique et chercheuse.  
+- [Emanuele Jane Morelli](https://www.instagram.com/jane_morelli/), designer de produits.  
+- [Meg Ball](https://www.instagram.com/megballcreates/), fashion designer
 
 ## Etienne Mineur
 
