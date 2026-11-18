@@ -14,6 +14,8 @@ Figures inspirantes dans l'utilisation créative de l'IA.
 - [Grit Wolany](https://gritwolany.com/), directrice artistique et chercheuse.  
 - [Emanuele Jane Morelli](https://www.instagram.com/jane_morelli/), designer de produits.  
 - [Meg Ball](https://www.instagram.com/megballcreates/), fashion designer
+- [Caroline C. Kiessling](https://linktr.ee/carolinekiessling), cinéaste IA.
+- Marie Kilg, journaliste IA, auteur du [KI-Podcast](https://www.youtube.com/watch?v=Kw6_0qp9zc8) de la chaîne ARD.
 
 ## Etienne Mineur
 
